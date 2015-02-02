@@ -1,0 +1,1 @@
+xvfb-run --auto-servernum --server-num=1 --server-args="-screen 0, 1366x768x24" selenium-standalone start

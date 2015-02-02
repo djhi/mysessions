@@ -1,0 +1,9 @@
+[submodule "mysessions-core"]
+	path = mysessions-core
+	url = git@github.com:djhi/mysessions-core.git
+[submodule "mysessions-web"]
+	path = mysessions-web
+	url = git@github.com:djhi/mysessions-web.git
+[submodule "mysessions-mobile"]
+	path = mysessions-mobile
+	url = git@github.com:djhi/mysessions-mobile.git

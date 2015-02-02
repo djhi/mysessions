@@ -1,0 +1,6 @@
+#!/bin/bash
+unset MONGO_URL
+export ROOT_URL=http://localhost:3100/
+
+cd mysessions-core
+meteor --port 3100 test-packages mysessions:core
